@@ -1,7 +1,7 @@
 // make an ajax request ! Use the 'fetch' function.
 // https://rallycoding.herokuapp.com/
 
-// const fetch = require('node-fetch');
+const fetch = require('node-fetch');
 
 // function fetchAlbums() {
 //   fetch('https://rallycoding.herokuapp.com/api/music_albums')
